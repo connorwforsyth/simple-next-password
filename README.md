@@ -1,4 +1,4 @@
-A simple password protected next app. Suitable for a public portfolio with protected routes.
+A simple password protected next app. Suitable for a public portfolio with protected routes.pnpm
 
 ## Getting Started
 
