@@ -1,4 +1,6 @@
-A simple password protected next app. Suitable for a public portfolio with protected routes.pnpm
+A simple password protected next app. Suitable for a public portfolio with protected routes.
+
+This is using a library called `iron-session`.
 
 ## Getting Started
 
